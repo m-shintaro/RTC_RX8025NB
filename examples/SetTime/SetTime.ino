@@ -2,7 +2,7 @@
 #include <Wire.h>
 #include <RTC_RX8025NB.h>
 
-RX8025_RTC rtc;
+RTC_RX8025NB rtc;
 
 void setup() {
   Serial.begin(9600);
