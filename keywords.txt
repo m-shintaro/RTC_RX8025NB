@@ -1,0 +1,15 @@
+# Syntax Coloring Map For RTC_RX8025NB Library
+
+# Datatypes (KEYWORD1)
+RTC_RX8025NB    KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+write         KEYWORD2
+read          KEYWORD2
+setDateTime   KEYWORD2
+adjustSecond  KEYWORD2
+
+# Constants (LITERAL1)
+RTC8052_I2CADDR             LITERAL1
+RTC8052_CFG_PULSE_ITR_SEC   LITERAL1
+SECOND_ADJUSTMENT           LITERAL1
