@@ -1,6 +1,8 @@
 # RTC_RX8025NB
 This is the RTC library for Arduino and microcontroller for EPSON RX-8025NB.
 
+This library requires [Time Library](https://github.com/PaulStoffregen/Time)
+
 ## Main functions
 - `setDateTime` method to set the RTC time
 - read`read` method to read the RTC time
@@ -39,6 +41,8 @@ This library is released under the MIT License. See [LICENSE.md](LICENSE.md) for
 # RTC_RX8025NB
 (Japanese Version)  
 このライブラリは、EPSON RX-8025NB用のArduinoとマイクロコントローラ用のRTCライブラリです。
+
+このライブラリには[TimeLibrary](https://github.com/PaulStoffregen/Time)が必要です。
 
 ## 主な機能
 - RTCの時間を設定する`setDateTime`メソッド
